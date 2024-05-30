@@ -1,0 +1,14 @@
+{
+  "name": "tailwindfood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwind build src/styles.css -o public/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
